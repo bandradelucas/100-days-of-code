@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  display: inline;
+}
+
+nav {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+.container {
+    display: flex;
+    max-width: 800px;
+    margin: auto;
+}
+aside img {
+    width: 200px;
+}
